@@ -3,14 +3,14 @@ Intro: Responses
 
 D. Install Git
 --------------
-Version: 
+Version: git version 2.27.0
 
 
 E. Install Python
 -----------------
-Version:
+Version: python version 3.8.3
 
 
 F. Install pip
 --------------
-Version:
+Version: pip version 20.1.1
