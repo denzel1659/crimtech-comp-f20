@@ -13,4 +13,8 @@ Version: python version 3.8.3
 
 F. Install pip
 --------------
+<<<<<<< HEAD
 Version: pip version 20.1.1
+=======
+Version: pip version 20.1.1
+>>>>>>> ff95fc897910fc937ec8298829292eb458018ada
